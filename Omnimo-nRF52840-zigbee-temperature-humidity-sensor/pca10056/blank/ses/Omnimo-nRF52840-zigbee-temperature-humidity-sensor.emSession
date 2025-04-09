@@ -1,0 +1,43 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="Omnimo-nRF52840-zigbee-temperature-humidity-sensor"/>
+  <ProjectSessionItem path="Omnimo-nRF52840-zigbee-temperature-humidity-sensor;Omnimo-nRF52840-zigbee-temperature-humidity-sensor"/>
+  <ProjectSessionItem path="Omnimo-nRF52840-zigbee-temperature-humidity-sensor;Omnimo-nRF52840-zigbee-temperature-humidity-sensor;Application"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../../../../external/zboss/src/zcl/zcl_main.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="43" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="Omnimo-nRF52840-zigbee-temperature-humidity-sensor" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
